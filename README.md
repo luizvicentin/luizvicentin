@@ -1,13 +1,8 @@
-### Hi there, I'm [Luiz Vicentin](https://github.com/luizvicentin)
-
-<a href="https://codepen.io/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://twitter.com/LuizVicentinDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://instagram.com/luizvicentindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
+## Hi there, I'm [Luiz Vicentin](https://github.com/luizvicentin)
 
 <br />
 
-# Hi, I'm Luiz Vicentin, a passionate self-taught Web Developer Student (Front-End | JavaScript | CSS3 | HTML5)
+#### Hi, I'm Luiz Vicentin, a passionate self-taught Web Developer Student (Front-End | JavaScript | CSS3 | HTML5)
 
 - 🌱 I’m currently learning **CSS3 & Javascript**
 
@@ -34,5 +29,4 @@
 <a href="https://twitter.com/LuizVicentinDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://instagram.com/luizvicentindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href  
 </p>
