@@ -1,4 +1,4 @@
-***Hi there, I'm [Luiz Vicentin](https://github.com/luizvicentin)
+### Hi there, I'm [Luiz Vicentin](https://github.com/luizvicentin)
 
 <a href="https://codepen.io/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://twitter.com/LuizVicentinDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizvicentin" height="20" width="20" /></a>
@@ -7,7 +7,7 @@
 
 <br />
 
-*Hi, I'm Luiz Vicentin, a passionate self-taught Web Developer Student (Front-End | JavaScript | CSS3 | HTML5)
+# Hi, I'm Luiz Vicentin, a passionate self-taught Web Developer Student (Front-End | JavaScript | CSS3 | HTML5)
 
 - 🌱 I’m currently learning **CSS3 & Javascript**
 
@@ -25,7 +25,7 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 <p>  
-<img src="https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true&theme=gotham" alt="luizvicentin"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true&theme=gotham" alt="luizvicentin"/> </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin&layout=compact&theme=gotham" alt="luizvicentin" />
 </p>
 
@@ -34,4 +34,5 @@
 <a href="https://twitter.com/LuizVicentinDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://instagram.com/luizvicentindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
+<a href  
 </p>
