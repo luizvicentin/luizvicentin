@@ -19,10 +19,10 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
-<!--<p>  
+<p>  
 <img src="https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true&theme=gotham" alt="luizvicentin"/> </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin&layout=compact&theme=gotham" alt="luizvicentin"/>
-</p>-->
+</p>
 
 <p align="center">
 <a href="https://codepen.io/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="luizvicentin" height="20" width="20" /></a>
