@@ -2,9 +2,9 @@
 
 <br />
 
-#### Hi, I'm Luiz Vicentin, a passionate self-taught Web Developer Student (Front-End | JavaScript | CSS3 | HTML5)
+#### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at Trybe
 
-- 🌱 I’m currently learning **CSS3 & Javascript**
+- 🌱 I’m  currently learning **CSS3 & Javascript**
 
 - 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizvicentin" height="20" width="20"/></a>
 
