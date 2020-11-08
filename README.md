@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://codepen.io/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://dev.to/luizvicentin"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luiz Vicentin's DEV Profile" height="20" width="20"></a>
+<a href="https://dev.to/luizvicentin" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luiz Vicentin's DEV Profile" height="20" width="20" /></a>
 <a href="https://twitter.com/LuizFVicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://instagram.com/luiz.fernando.vicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
