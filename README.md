@@ -1,8 +1,6 @@
 ## Hi there, I'm [Luiz Vicentin](https://github.com/luizvicentin)
 
-<br />
-
-#### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at Trybe
+#### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at Trybe!
 
 - 🌱 I’m  currently learning **CSS3 & Javascript**
 
