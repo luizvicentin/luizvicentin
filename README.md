@@ -13,9 +13,11 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true" alt="luizvicentin"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin)](https://github.com/luizvicentin/github-readme-stats)
 </p>
+
+</br>[![luizvicentin's github stats](https://github-readme-stats.vercel.app/api?username=luizvicentin&count_private=true&count_private=true&theme=tokyonight)](https://github.com/luizvicentin/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin&layout=compact&theme=tokyonight)](https://github.com/luizvicentin/github-readme-stats)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
