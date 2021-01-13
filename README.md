@@ -16,8 +16,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
 </p>
 
-</br>
-[![luizvicentin's github stats](https://github-readme-stats.vercel.app/api?username=luizvicentin&count_private=true&count_private=true&theme=tokyonight)](https://github.com/luizvicentin/github-readme-stats)
+</br>[![luizvicentin's github stats](https://github-readme-stats.vercel.app/api?username=luizvicentin&count_private=true&count_private=true&theme=tokyonight)](https://github.com/luizvicentin/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin&layout=compact&theme=tokyonight)](https://github.com/luizvicentin/github-readme-stats)
 
