@@ -30,4 +30,4 @@
 <a href="https://instagram.com/luiz.fernando.vicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizvicentin&repo=github-readme-stats&theme=vue-dark)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=luizvicentin&repo=luizvicentin&theme=vue-dark)]
