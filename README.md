@@ -29,3 +29,5 @@
 <a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://instagram.com/luiz.fernando.vicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luizvicentin&repo=github-readme-stats)](https://github.com/luizvicentin/github-readme-stats)
