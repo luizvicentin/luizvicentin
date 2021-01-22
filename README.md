@@ -16,9 +16,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
 </p>
 
-![Luiz Vicentin's github stats](https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true&theme=vue-dark:)
+![Luiz Vicentin's github stats](https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin&layout=compact&theme=vue-dark)](https://github.com/luizvicentin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizvicentin&layout=compact&theme=vue-dark)](https://github.com/luizvicentin/github-readme-stats:)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on github.
 
