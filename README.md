@@ -14,6 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> 
 </p>
 
 [Luiz Vicentin's github stats](https://github-readme-stats.vercel.app/api?username=luizvicentin&show_icons=true&theme=vue-dark)
