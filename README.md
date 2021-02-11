@@ -2,7 +2,9 @@
 
 #### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at Trybe | [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m  currently learning **CSS3 & Javascript**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizvicentin&label=Profile%20views&color=0e75b6&style=flat" alt="luizvicentin" /> </p>
+
+- 🌱 I’m  currently learning **Jest & React**
 
 - 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizvicentin" height="20" width="20"/></a>
 
