@@ -2,8 +2,6 @@
 
 #### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at Trybe | [Trybe](https://www.betrybe.com/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizvicentin&label=Profile%20views&color=0e75b6&style=flat" alt="luizvicentin" /> </p>
-
 - 🌱 I’m  currently learning **Jest & React**
 
 - 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizvicentin" height="20" width="20"/></a>
@@ -30,3 +28,4 @@
 </p>
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on github.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizvicentin&label=Profile%20views&color=0e75b6&style=flat" alt="luizvicentin" /> </p>
