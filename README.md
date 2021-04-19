@@ -1,18 +1,18 @@
-## Hi there, I'm [Luiz Vicentin](https://github.com/luizvicentin)
+## Hi there, I'm [Luiz Pavanello](https://github.com/luizpavanello)
 
 #### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at [Trybe](https://www.betrybe.com/)
 
 - 🌱 I’m  currently learning **Jest & React**
 
-- 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizvicentin" height="20" width="20"/></a>
+- 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizpavanello" height="20" width="20"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="luizvicentin" height="20" width="20" /></a>
 <a href="https://dev.to/luizvicentin" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luiz Vicentin's DEV Profile" height="20" width="20" /></a>
-<a href="https://twitter.com/LuizFVicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://instagram.com/luiz.fernando.vicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizvicentin" height="20" width="20" /></a>
+<a href="https://twitter.com/LuizFPavanello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizpavanello" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/luizfpavanello/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizpavanello" height="20" width="20" /></a>
+<a href="https://instagram.com/luizfpavanello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizpavanello" height="20" width="20" /></a>
 </p>
 
 **Languages and Tools:**
@@ -28,4 +28,4 @@
 </p>
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on github.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizvicentin&label=Profile%20views&color=0e75b6&style=flat" alt="luizvicentin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizpavanello&label=Profile%20views&color=0e75b6&style=flat" alt="luizpavanello" /> </p>
