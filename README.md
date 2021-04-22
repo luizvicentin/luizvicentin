@@ -1,8 +1,8 @@
 ## Hi there, I'm [Luiz Pavanello](https://github.com/luizpavanello)
 
-#### Hi, I'm Luiz Vicentin, a passionate self-taught Software Development Student at [Trybe](https://www.betrybe.com/)
+#### Hi, I'm Luiz Vicentin, a passionate self-taught Webdesigner and Software Development Student at [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m  currently learning **Jest & React**
+- 🌱 I’m  currently learning **React**
 
 - 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizpavanello" height="20" width="20"/></a>
 
