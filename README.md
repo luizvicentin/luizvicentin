@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/luizvicentin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="luizvicentin" height="20" width="20" /></a>
-<a href="https://dev.to/luizvicentin" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luiz Vicentin's DEV Profile" height="20" width="20" /></a>
+<a href="https://dev.to/luizpavanello" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luiz Vicentin's DEV Profile" height="20" width="20" /></a>
 <a href="https://twitter.com/LuizFPavanello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luizpavanello" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/luizfpavanello/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizpavanello" height="20" width="20" /></a>
 <a href="https://instagram.com/luizfpavanello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizpavanello" height="20" width="20" /></a>
