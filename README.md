@@ -2,9 +2,9 @@
 
 #### Hi, I'm Luiz Vicentin, a passionate self-taught Webdesigner and Software Development Student at [Trybe](https://www.betrybe.com/)
 
-- 🌱 I’m  currently learning **React**
+- 🔰 I’m  currently learning **React**
 
-- 🌱 I’m  a **Cybersecurity enthusiastic**
+- 🕵️‍♂️ I’m  a **Cybersecurity enthusiastic**
 
 - 🚴‍♂️ I’m  I'm a **Beginner Cyclist**
 
