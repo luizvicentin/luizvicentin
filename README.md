@@ -4,6 +4,10 @@
 
 - 🌱 I’m  currently learning **React**
 
+- 🌱 I’m  a **Cybersecurity enthusiastic**
+
+- 🚴‍♂️ I’m  I'm a **Beginner Cyclist**
+
 - 📫 How to reach me  <a href="luizpavanello@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="luizpavanello" height="20" width="20"/></a>
 
 <h3 align="left">Connect with me:</h3>
